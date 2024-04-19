@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1713561285024" clover="3.2.0">
+  <project timestamp="1713561285024" name="All files">
+    <metrics statements="84" coveredstatements="49" conditionals="19" coveredconditionals="16" methods="8" coveredmethods="6" elements="111" coveredelements="71" complexity="0" loc="84" ncloc="84" packages="1" files="7" classes="7"/>
+    <file name="counter.ts" path="C:\Users\USER\Desktop\-\TP\GL4\Test-Logiciel\TP1\src\counter.ts">
+      <metrics statements="9" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="1" count="0" type="cond" truecount="0" falsecount="1"/>
+      <line num="2" count="0" type="stmt"/>
+      <line num="3" count="0" type="stmt"/>
+      <line num="4" count="0" type="stmt"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="6" count="0" type="stmt"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="8" count="0" type="stmt"/>
+      <line num="9" count="0" type="stmt"/>
+    </file>
+    <file name="exercise1.ts" path="C:\Users\USER\Desktop\-\TP\GL4\Test-Logiciel\TP1\src\exercise1.ts">
+      <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="2" count="3" type="cond" truecount="1" falsecount="0"/>
+      <line num="3" count="13" type="cond" truecount="2" falsecount="0"/>
+      <line num="4" count="8" type="stmt"/>
+      <line num="5" count="8" type="stmt"/>
+      <line num="6" count="13" type="stmt"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="8" count="3" type="stmt"/>
+    </file>
+    <file name="exercise2.ts" path="C:\Users\USER\Desktop\-\TP\GL4\Test-Logiciel\TP1\src\exercise2.ts">
+      <metrics statements="25" coveredstatements="25" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="2" count="41" type="cond" truecount="1" falsecount="0"/>
+      <line num="3" count="23" type="stmt"/>
+      <line num="4" count="23" type="cond" truecount="1" falsecount="0"/>
+      <line num="5" count="18" type="stmt"/>
+      <line num="6" count="18" type="stmt"/>
+      <line num="7" count="18" type="stmt"/>
+      <line num="8" count="18" type="stmt"/>
+      <line num="9" count="18" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="11" count="18" type="cond" truecount="1" falsecount="0"/>
+      <line num="12" count="18" type="stmt"/>
+      <line num="13" count="18" type="stmt"/>
+      <line num="14" count="18" type="stmt"/>
+      <line num="15" count="18" type="cond" truecount="2" falsecount="0"/>
+      <line num="16" count="38" type="cond" truecount="1" falsecount="0"/>
+      <line num="17" count="17" type="stmt"/>
+      <line num="18" count="17" type="stmt"/>
+      <line num="19" count="38" type="cond" truecount="1" falsecount="0"/>
+      <line num="20" count="21" type="stmt"/>
+      <line num="21" count="21" type="stmt"/>
+      <line num="22" count="21" type="stmt"/>
+      <line num="23" count="38" type="stmt"/>
+      <line num="24" count="18" type="stmt"/>
+      <line num="25" count="18" type="stmt"/>
+    </file>
+    <file name="exercise3.ts" path="C:\Users\USER\Desktop\-\TP\GL4\Test-Logiciel\TP1\src\exercise3.ts">
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="2" count="5" type="stmt"/>
+      <line num="3" count="5" type="stmt"/>
+      <line num="4" count="5" type="stmt"/>
+      <line num="5" count="5" type="stmt"/>
+      <line num="6" count="5" type="cond" truecount="1" falsecount="0"/>
+      <line num="7" count="5" type="stmt"/>
+    </file>
+    <file name="exercise4.ts" path="C:\Users\USER\Desktop\-\TP\GL4\Test-Logiciel\TP1\src\exercise4.ts">
+      <metrics statements="8" coveredstatements="6" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="1" count="2" type="cond" truecount="1" falsecount="0"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="3" count="2" type="cond" truecount="0" falsecount="1"/>
+      <line num="4" count="0" type="stmt"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="8" count="2" type="stmt"/>
+    </file>
+    <file name="main.ts" path="C:\Users\USER\Desktop\-\TP\GL4\Test-Logiciel\TP1\src\main.ts">
+      <metrics statements="24" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="1" count="0" type="cond" truecount="0" falsecount="1"/>
+      <line num="2" count="0" type="stmt"/>
+      <line num="3" count="0" type="stmt"/>
+      <line num="4" count="0" type="stmt"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="6" count="0" type="stmt"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="8" count="0" type="stmt"/>
+      <line num="9" count="0" type="stmt"/>
+      <line num="10" count="0" type="stmt"/>
+      <line num="11" count="0" type="stmt"/>
+      <line num="12" count="0" type="stmt"/>
+      <line num="13" count="0" type="stmt"/>
+      <line num="14" count="0" type="stmt"/>
+      <line num="15" count="0" type="stmt"/>
+      <line num="16" count="0" type="stmt"/>
+      <line num="17" count="0" type="stmt"/>
+      <line num="18" count="0" type="stmt"/>
+      <line num="19" count="0" type="stmt"/>
+      <line num="20" count="0" type="stmt"/>
+      <line num="21" count="0" type="stmt"/>
+      <line num="22" count="0" type="stmt"/>
+      <line num="23" count="0" type="stmt"/>
+      <line num="24" count="0" type="stmt"/>
+    </file>
+    <file name="math.ts" path="C:\Users\USER\Desktop\-\TP\GL4\Test-Logiciel\TP1\src\math.ts">
+      <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
