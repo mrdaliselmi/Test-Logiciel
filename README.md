@@ -6,7 +6,7 @@ Welcome to the repository for the software testing course assignments. This repo
 
 [TP 1: Learn unit testing in JavaScript with Vitest](./TP1/README.md)
 
-[TP 1 Homework](./TP1-Homework/README.md)
+[TP 1 Homework](https://github.com/mrdaliselmi/Vitest-practice/tree/main)
 
 ## Getting Started
 
