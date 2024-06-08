@@ -4,9 +4,9 @@ Welcome to the repository for the software testing course assignments. This repo
 
 ## Table of Contents
 
-[TP 1: Learn unit testing in JavaScript with Vitest](./TP1/README.md)
-
-[TP 1 Homework](https://github.com/mrdaliselmi/Vitest-practice/tree/main)
+1. [TP 1: Learn unit testing in JavaScript w/ Vitest](./TP1/README.md)
+2. [TP 1 Homework](https://github.com/mrdaliselmi/Vitest-practice/tree/main)
+3. [TP2 + Homework: Learn E2E testing w/ Selenium](./TP2/README.md)
 
 ## Getting Started
 
